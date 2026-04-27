@@ -35,3 +35,5 @@ To run this application locally:
    \`\`\`bash
    npm run build
    \`\`\`
+   4. live demo
+      myportfolio-two-eosin.vercel.app
